@@ -1,0 +1,15 @@
+/*boxmodel.css*/
+
+.box {
+	height: 200px;
+	background: #654678;
+	padding: 50px;
+}
+
+.content {
+	height: 50px;
+	background: #827563;
+	padding: 40px;
+	margin: 30px;
+	width: 1100px;
+}
