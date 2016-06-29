@@ -1,0 +1,36 @@
+/*mock.css*/
+
+.image_background {
+	background-color: #F5F5F5
+}
+
+
+
+th {
+	text-align: center;
+	left: 100px;
+}
+
+.scrollable-menu {
+    height: auto;
+    max-height: 500px;
+    overflow-x: hidden;
+    
+}
+
+.row1 {
+	padding-top: 20px;
+}
+
+table {
+
+	background-color: white;
+	border-radius: 10px;
+	text-align: center;
+	
+	padding: 70px 70px;
+	height: 500px;
+	
+	/*bottom: 500px;*/
+	margin-left: -500px;
+}
