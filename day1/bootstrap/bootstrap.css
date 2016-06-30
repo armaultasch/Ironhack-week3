@@ -18,7 +18,7 @@ table {
 
 
 }
-.board-menu-header.is-in-frame {
+.board-menu-header .is-in-frame {
     opacity: 1;
     overflow: visible;
 }

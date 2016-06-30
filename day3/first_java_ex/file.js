@@ -1,7 +1,7 @@
 // file.js
 
 
-
+var countColors = require(".lib/count-colors.js");
 var colorsArray = ["indigo", "black", "indigo", "purple", "indigo", "chartreuse", "indigo", "magenta", "chartreuse", "scarlet"];
 
 function countColors (color, theArray) {
