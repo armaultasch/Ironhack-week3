@@ -31,3 +31,16 @@ console.log( countColors("black", colorsArray) === 1);
 
 console.log( countColors("pink", colorsArray) === 0);
 
+
+function eat () {
+	console.log("Eating pizza.");
+}
+
+eat ();
+console.log( eat);
+
+var upperCaseColors = colorsArray.map(function (colorFromArray) {
+	return colorFromArray.toUpperCase();
+});
+
+console.log(upperCaseColors);
